@@ -1,0 +1,27 @@
+body{
+    font: 20px "Century Gothic";
+    
+}
+.navbar{
+    background-color: rgb(113, 236, 189);
+}
+
+.quem-somos{
+    background-color: #a791c4;
+    color: white;
+}
+
+.parceiros{
+    background-color: teal;
+    color: wheat;
+}
+
+.servicos{
+    background-color: rgb(201, 99, 99);
+    color: white;
+}
+    
+.margin{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
